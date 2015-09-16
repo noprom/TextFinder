@@ -12,3 +12,11 @@ TextFinder::~TextFinder()
 {
     delete ui;
 }
+
+/**
+ * @brief TextFinder::查找按钮点击后
+ */
+void TextFinder::on_findButton_clicked()
+{
+
+}
